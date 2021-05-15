@@ -1,4 +1,4 @@
-### Hello, world!
+### Hello, world! 👋🌎
 
 I’m Data Science and Artificial Intelligence student.
 
