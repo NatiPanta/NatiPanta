@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @NatiPanta
-- 👀 I’m interested in learning more about programming.
-- 🌱 I’m currently learning Python and Data Science.
-- 💞️ I’m looking to collaborate on our community of developers.
-- 📫 How to reach me: natalia_pantaleoni@hotmail.com
+### Hello, world!
+
+I’m Data Science and Artificial Intelligence student.
+
+### How to find me:
+
+[E-mail](mailto:natalia_pantaleoni@hotmail.com) <br>
+[Instagram](https://www.instagram.com/natipanta/) <br>
+[LinkedIn](https://www.linkedin.com/in/natalia-pantaleoni/) <br>
 
 <!---
 NatiPanta/NatiPanta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
