@@ -1,5 +1,7 @@
 ### Hello, world! 👋🌎
 
+<a href="https://agilethink.com.br/wp-content/uploads/2020/07/girl_3.gif">
+
 I’m Data Science and Artificial Intelligence student.
 
 ### How to find me:
@@ -8,7 +10,3 @@ I’m Data Science and Artificial Intelligence student.
 [Instagram](https://www.instagram.com/natipanta/) <br>
 [LinkedIn](https://www.linkedin.com/in/natalia-pantaleoni/) <br>
 
-<!---
-NatiPanta/NatiPanta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
