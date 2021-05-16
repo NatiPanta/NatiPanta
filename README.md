@@ -1,6 +1,8 @@
 ### Hello, world! 👋🌎
 
-<a href="https://agilethink.com.br/wp-content/uploads/2020/07/girl_3.gif">
+<a href="#">
+    <img align="center" width="300" src="girl_3.gif" />
+  </a>
 
 I’m Data Science and Artificial Intelligence student.
 
@@ -9,4 +11,3 @@ I’m Data Science and Artificial Intelligence student.
 [E-mail](mailto:natalia_pantaleoni@hotmail.com) <br>
 [Instagram](https://www.instagram.com/natipanta/) <br>
 [LinkedIn](https://www.linkedin.com/in/natalia-pantaleoni/) <br>
-
