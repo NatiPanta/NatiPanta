@@ -6,8 +6,9 @@
 
 I’m Data Science and Artificial Intelligence student.
 
-<p align="center">
-    ### How to find me:
+### How to find me:
+ 
+<p align="left">
   <a href="mailto:natalia_pantaleoni@hotmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
